@@ -38,7 +38,8 @@ const client = new Client({
 });
 
 // Banco de dados integrado
-const database = require('./database');
+const database = require('./database.js');
+
 
 // ==========================================
 // 2. INICIALIZAÇÃO DO BOT
